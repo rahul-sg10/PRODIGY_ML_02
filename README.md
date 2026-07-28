@@ -20,6 +20,11 @@ Five customer segments identified:
 4. Budget-Conscious — low income, low spending
 5. High-Income Savers — high income, low spending
 
+
+## Cluster Visualization
+
+![Cluster Plot](cluster_plot.png)
+
 ## Tools
 Python, scikit-learn, pandas, matplotlib, Google Colab
 
